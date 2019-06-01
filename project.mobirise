@@ -45,11 +45,7 @@
     "sitemapSwitcher": "on",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": "",
-    "publishType": "local",
-    "gitHubName": "theh21",
-    "gitHubPath": "tmorrowdesign",
-    "publishPath": "file:///C:/Users/itsda/Documents/GitHub/tmorrowdesign"
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
